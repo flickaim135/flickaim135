@@ -59,7 +59,7 @@
 <br>
 <img src="https://img.icons8.com/color/50/000000/codechef.png" height="25" width="25"/> [Codechef](https://www.codechef.com/) <br>
 <br>
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="25" width="25"/> [Leetcode](https://leetcode.com/FBA/) <br>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="25" width="25"/> [Leetcode](https://leetcode.com/) <br>
 <br>
 </details>
 </p>
